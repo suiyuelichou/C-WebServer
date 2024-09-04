@@ -1,0 +1,158 @@
+2024-08-31 00:00:00.721110 [info]: timer tick
+2024-08-31 00:00:05.721160 [info]: timer tick
+2024-08-31 00:00:10.721206 [info]: timer tick
+2024-08-31 00:00:15.721292 [info]: timer tick
+2024-08-31 00:00:20.721330 [info]: timer tick
+2024-08-31 00:00:25.721388 [info]: timer tick
+2024-08-31 00:00:30.721429 [info]: timer tick
+2024-08-31 00:00:35.721490 [info]: timer tick
+2024-08-31 00:00:40.721539 [info]: timer tick
+2024-08-31 00:00:45.721624 [info]: timer tick
+2024-08-31 00:00:50.721677 [info]: timer tick
+2024-08-31 00:00:55.721721 [info]: timer tick
+2024-08-31 00:01:00.721780 [info]: timer tick
+2024-08-31 00:01:05.721832 [info]: timer tick
+2024-08-31 00:01:10.721907 [info]: timer tick
+2024-08-31 00:01:15.721945 [info]: timer tick
+2024-08-31 00:01:20.721992 [info]: timer tick
+2024-08-31 00:01:25.722060 [info]: timer tick
+2024-08-31 00:01:30.722095 [info]: timer tick
+2024-08-31 00:01:35.722154 [info]: timer tick
+2024-08-31 00:01:40.722206 [info]: timer tick
+2024-08-31 00:01:45.722254 [info]: timer tick
+2024-08-31 00:01:50.722297 [info]: timer tick
+2024-08-31 00:01:55.722351 [info]: timer tick
+2024-08-31 00:02:00.722392 [info]: timer tick
+2024-08-31 00:02:05.722450 [info]: timer tick
+2024-08-31 00:02:10.722489 [info]: timer tick
+2024-08-31 00:02:15.722544 [info]: timer tick
+2024-08-31 00:02:20.722591 [info]: timer tick
+2024-08-31 00:02:25.722635 [info]: timer tick
+2024-08-31 00:02:30.722694 [info]: timer tick
+2024-08-31 00:02:35.722749 [info]: timer tick
+2024-08-31 00:02:40.722832 [info]: timer tick
+2024-08-31 00:02:45.722876 [info]: timer tick
+2024-08-31 00:02:50.722936 [info]: timer tick
+2024-08-31 00:02:55.722980 [info]: timer tick
+2024-08-31 00:03:00.723039 [info]: timer tick
+2024-08-31 00:03:05.723103 [info]: timer tick
+2024-08-31 00:03:10.723151 [info]: timer tick
+2024-08-31 00:03:15.723206 [info]: timer tick
+2024-08-31 00:03:20.723253 [info]: timer tick
+2024-08-31 00:03:25.723318 [info]: timer tick
+2024-08-31 00:03:30.723377 [info]: timer tick
+2024-08-31 00:03:35.723441 [info]: timer tick
+2024-08-31 00:03:40.723500 [info]: timer tick
+2024-08-31 00:03:45.723544 [info]: timer tick
+2024-08-31 00:03:50.723590 [info]: timer tick
+2024-08-31 00:03:55.723652 [info]: timer tick
+2024-08-31 00:04:00.723706 [info]: timer tick
+2024-08-31 00:04:05.723770 [info]: timer tick
+2024-08-31 00:04:10.723852 [info]: timer tick
+2024-08-31 00:04:15.723894 [info]: timer tick
+2024-08-31 00:04:20.723934 [info]: timer tick
+2024-08-31 00:04:25.723979 [info]: timer tick
+2024-08-31 00:04:30.724027 [info]: timer tick
+2024-08-31 00:04:35.724099 [info]: timer tick
+2024-08-31 00:04:40.724149 [info]: timer tick
+2024-08-31 00:04:45.724192 [info]: timer tick
+2024-08-31 00:04:50.724231 [info]: timer tick
+2024-08-31 00:04:55.724285 [info]: timer tick
+2024-08-31 02:36:23.325812 [info]: timer tick
+2024-08-31 02:36:28.047910 [info]: timer tick
+2024-08-31 02:36:33.047965 [info]: timer tick
+2024-08-31 02:36:38.048004 [info]: timer tick
+2024-08-31 02:36:38.618467 [info]: deal with the client(119.133.5.104)
+2024-08-31 02:36:38.618549 [info]: adjust timer once
+2024-08-31 02:36:38.618573 [info]: GET / HTTP/1.1
+2024-08-31 02:36:38.618643 [info]: Host: 47.121.134.224:9006
+2024-08-31 02:36:38.618650 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0
+2024-08-31 02:36:38.618658 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0
+2024-08-31 02:36:38.618668 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-08-31 02:36:38.618677 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-08-31 02:36:38.618685 [info]: Accept-Encoding: gzip, deflate
+2024-08-31 02:36:38.618693 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-08-31 02:36:38.618702 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-08-31 02:36:38.618721 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-08-31 02:36:38.618729 [info]: Upgrade-Insecure-Requests: 1
+2024-08-31 02:36:38.618735 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-08-31 02:36:38.618740 [info]: 
+2024-08-31 02:36:38.620957 [info]: request:HTTP/1.1 200 OK
+
+2024-08-31 02:36:38.621000 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-08-31 02:36:38.621010 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+2024-08-31 02:36:38.621019 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+
+2024-08-31 02:36:38.621875 [info]: close fd 16
+2024-08-31 02:36:43.048075 [info]: timer tick
+2024-08-31 13:58:50.801425 [info]: timer tick
+2024-08-31 13:58:55.801455 [info]: timer tick
+2024-08-31 13:59:00.801496 [info]: timer tick
+2024-08-31 13:59:01.907772 [info]: deal with the client(119.133.5.104)
+2024-08-31 13:59:01.907828 [info]: adjust timer once
+2024-08-31 13:59:01.908695 [info]: GET / HTTP/1.1
+2024-08-31 13:59:01.910066 [info]: Host: 47.121.134.224:9006
+2024-08-31 13:59:01.910095 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0
+2024-08-31 13:59:01.910104 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0
+2024-08-31 13:59:01.910110 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-08-31 13:59:01.910116 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-08-31 13:59:01.910123 [info]: Accept-Encoding: gzip, deflate
+2024-08-31 13:59:01.910128 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2024-08-31 13:59:01.910134 [info]: Accept-Language: zh-CN,zh;q=0.9
+2024-08-31 13:59:01.910139 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.9
+2024-08-31 13:59:01.910145 [info]: Upgrade-Insecure-Requests: 1
+2024-08-31 13:59:01.910150 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2024-08-31 13:59:01.910155 [info]: 
+2024-08-31 13:59:01.912604 [info]: request:HTTP/1.1 200 OK
+
+2024-08-31 13:59:01.912631 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2024-08-31 13:59:01.912638 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+2024-08-31 13:59:01.912645 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:close
+
+
+2024-08-31 13:59:01.913424 [info]: close fd 16
+2024-08-31 13:59:05.801541 [info]: timer tick
+2024-08-31 13:59:10.801600 [info]: timer tick
+2024-08-31 13:59:15.801646 [info]: timer tick
+2024-08-31 13:59:20.801705 [info]: timer tick
+2024-08-31 13:59:25.801748 [info]: timer tick
+2024-08-31 13:59:30.801806 [info]: timer tick
+2024-08-31 13:59:35.801847 [info]: timer tick
+2024-08-31 13:59:40.801888 [info]: timer tick
+2024-08-31 13:59:45.801943 [info]: timer tick
+2024-08-31 13:59:50.802015 [info]: timer tick
+2024-08-31 13:59:55.802075 [info]: timer tick
+2024-08-31 14:00:00.802139 [info]: timer tick
+2024-08-31 14:00:05.802176 [info]: timer tick
+2024-08-31 14:00:10.802219 [info]: timer tick
+2024-08-31 14:00:15.802259 [info]: timer tick
+2024-08-31 14:00:20.802311 [info]: timer tick
+2024-08-31 14:00:25.802358 [info]: timer tick
+2024-08-31 14:00:30.802413 [info]: timer tick
+2024-08-31 14:00:35.802456 [info]: timer tick
+2024-08-31 14:00:40.802507 [info]: timer tick
+2024-08-31 14:00:45.802568 [info]: timer tick
+2024-08-31 14:00:50.802625 [info]: timer tick
+2024-08-31 14:00:55.802667 [info]: timer tick
+2024-08-31 14:01:00.802731 [info]: timer tick
+2024-08-31 14:01:05.802776 [info]: timer tick
+2024-08-31 14:01:10.802842 [info]: timer tick
+2024-08-31 14:01:15.802913 [info]: timer tick
+2024-08-31 14:01:20.802981 [info]: timer tick
+2024-08-31 14:01:25.803039 [info]: timer tick
+2024-08-31 14:01:30.803090 [info]: timer tick
