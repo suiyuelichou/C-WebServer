@@ -79,5 +79,5 @@
 ## 参考文献
 
 - Linux高性能服务器编程，游双著.
-- [TinyWebServer](https://github.com/qinguoyi/TinyWebServer)
+- [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer)
 - [editor.md GitHub](https://github.com/pandao/editor.md) - Markdown编辑器的文档
