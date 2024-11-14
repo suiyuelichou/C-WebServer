@@ -6,7 +6,7 @@
 - [更新日志](#更新日志)
 - [未来规划](#未来规划)
 - [常见问题](#常见问题)
-- [参考资料](#https://github.com/suiyuelichou/Linux-based-blogging-platform?tab=readme-ov-file#%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE)
+- [参考资料](#参考资料)
 
 ## 技术栈
 
