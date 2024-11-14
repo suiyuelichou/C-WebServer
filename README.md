@@ -76,7 +76,7 @@
 ### 问：如何管理用户的权限？
 答：使用基于角色的访问控制（RBAC）来限制不同类型用户（管理员、普通用户）的访问权限。
 
-## 参考文献
+## 参考资料
 
 - Linux高性能服务器编程，游双著.
 - [qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer)
